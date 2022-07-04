@@ -23,6 +23,6 @@
 
 
 
-<img href="https://raw.githubusercontent.com/Archiolli/Archiolli/blob/output/snake.svg" alt="Snake animation" />
+
 
 
