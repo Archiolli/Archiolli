@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá, meu nome é João! 👾
 
-<!--
-**Archiolli/Archiolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jo%C3%A3o-archiolli-74b799189/)
+[![Linkedin](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue)](https://archiolli-portfolio.vercel.app/)
+[![Linkedin](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=blue)](https://instagram.com/joaoarchiolli/)
 
-Here are some ideas to get you started:
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=Archiolli&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso no meu dia a dia  
+
+<div style="displat: inline_block"><br/> 
+  <img alt="html5" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=blue"/>
+  <img alt="html5" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=blue"/>
+  <img alt="html5" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue"/>
+  <img alt="html5" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=blue"/><br/>
+  <img alt="html5" src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=blue"/>
+  <img alt="html5" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue"/>  
+  <img alt="html5" src="https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=blue"/>
+</div><br/>
