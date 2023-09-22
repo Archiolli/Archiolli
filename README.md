@@ -16,4 +16,13 @@
   <img alt="html5" src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=blue"/>
   <img alt="html5" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=blue"/>  
   <img alt="html5" src="https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=blue"/>
+
 </div><br/>
+
+## Tecnologias mais utilizadas nos meus repositórios
+<div style="displat: inline_block">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Archiolli&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a><br/><br/>
+</div>
+
