@@ -4,7 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue)](https://archiolli-portfolio.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=blue)](https://instagram.com/joaoarchiolli/)
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=Archiolli&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia a dia  
 
